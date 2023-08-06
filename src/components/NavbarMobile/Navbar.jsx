@@ -1,7 +1,7 @@
 const Navbar = () => {
   return (
     <main>
-      <div className='flex items-center justify-between flex-row-reverse mt-6 px-4 mb-6'>
+      <div className='flex items-center justify-between mt-6 px-4 mb-6'>
         <div className=''>Logo</div>
         <div className='text-lg font-bold text-slate-800'>ساعت هوشمند</div>
         <div className='h-7 w-7 shadow-lg rounded-md bg-white flex items-center justify-center'>
