@@ -5,6 +5,7 @@ const colorImages = {
   red: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/MP6Y3ref_VW_34FR+watch-40-alum-starlight-cell-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png",
   blue: "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/FKN13_AV1?wid=1144&hei=1144&fmt=jpeg&qlt=90&.v=1647901120718",
   green: "https://www.playforce.sg/cdn/shop/files/11_86715052-a380-46be-aefd-3b8b46674014_1024x1024.png?v=1688127996",
+  default: "https://www.playforce.sg/cdn/shop/files/11_86715052-a380-46be-aefd-3b8b46674014_1024x1024.png?v=1688127996",
 };
 
 const ProductSection = ({ product }) => {
