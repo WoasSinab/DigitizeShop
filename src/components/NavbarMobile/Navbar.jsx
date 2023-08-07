@@ -3,7 +3,7 @@ const Navbar = () => {
     <main>
       <div className='md:hidden flex items-center justify-between mt-5 px-4 mb-6'>
         <div className='w-6 h-6'>
-          <img src="https://cdn.freebiesupply.com/images/large/2x/apple-logo-transparent.png" alt=""  />
+          <img src="https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png" alt=""  />
         </div>
         <div className='text-lg font-bold text-slate-800'>ساعت هوشمند</div>
         <div className='h-7 w-7 shadow-lg rounded-md bg-white flex items-center justify-center'>
