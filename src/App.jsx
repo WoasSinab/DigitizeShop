@@ -3,7 +3,7 @@ import MainPage from "./Pages/main/main"
 function App() {
 
   return (
-    <div>
+    <div className="container mx-auto">
       <MainPage/>
     </div>
   )
