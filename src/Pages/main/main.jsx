@@ -1,13 +1,13 @@
 import FilterMobile from "../../components/FilterMobile/FilterMobile"
 import Navbar from "../../components/NavbarMobile/Navbar"
-import ProductSection from "../../components/ProductSection/ProductSection"
+import ProductGridSec from "../../components/ProductGridSec/ProductGridSec"
 
 const MainPage = () => {
   return (
     <div>
       <Navbar />
       <FilterMobile />
-      <ProductSection />
+      <ProductGridSec />
     </div>
   )
 }

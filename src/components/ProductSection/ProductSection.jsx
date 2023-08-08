@@ -57,8 +57,8 @@ const ProductSection = ({ product }) => {
       </div>
 
       {/* Product Title and Price */}
-      <div className='text-slate-800 text-xs font-bold mb-2 md:text-base'>{name}</div>
-      <div className='text-orange-600 font-medium text-left text-sm mb-3 md:text-base'>{price}</div>
+      <div className='text-slate-800 text-xs font-bold mb-2 sm:text-base'>{name}</div>
+      <div className='text-orange-600 font-medium text-left text-sm mb-3 sm:text-lg'>{price}</div>
       <hr className='' />
       <button className='w-full font-bold text-orange-600 text-sm py-1 md:text-lg'>مشاهده و سفارش</button>
     </div>
@@ -67,7 +67,7 @@ const ProductSection = ({ product }) => {
 
 const ProductList = () => {
   return (
-    <div className='grid gap-x-2 gap-y-8 grid-cols-2 md:grid-cols-3 lg:grid-cols-4 px-2 sm:gap-x-4 md:gap-x-8 md:gap-y-10'>
+    <div className='grid gap-x-2 gap-y-8 grid-cols-2 lg:grid-cols-4 px-2 md:p-0 sm:gap-x-4 md:gap-x-6 md:gap-y-10'>
       {productsData.map((product) => (
         <ProductSection key={product.id} product={product} />
       ))}
