@@ -9,7 +9,7 @@ const ProductGridSec = () => {
         {/* sortBar */}
         <div className="col-span-8 lg:col-span-9 bg-white hidden md:block p-4">sortBar</div>
         {/* productSec */}
-        <div className="col-span-12 md:col-span-8 lg:col-span-9 bg-white"><ProductSection/></div>
+        <div className="col-span-12 md:col-span-8 lg:col-span-9 "><ProductSection/></div>
       </div>
     </div>
   )
