@@ -1,7 +1,7 @@
-import React, { useState } from 'react';
+import { useState } from "react";
 
 const MdSortbar = () => {
-  const buttons = ['محبوب ترین', 'پرفروش ترین', 'ارزان ترین', 'گران ترین'];
+  const buttons = ["محبوب ترین", "پرفروش ترین", "ارزان ترین", "گران ترین"];
   const [activeButton, setActiveButton] = useState(null);
 
   return (
@@ -12,16 +12,8 @@ const MdSortbar = () => {
         </svg>
       </div>
       {buttons.map((text, index) => (
-        <button
-          key={index}
-          className={`py-4 ${activeButton === index ? 'text-black font-bold' : ''}`}
-          onClick={() => setActiveButton(index)}
-        >
-          {activeButton === index && (
-            <div className='absolute -top-2 left-1/2 transform -translate-x-1/2'>
-              <div className='bg-orange-500 w-2 h-2 rounded-full'></div>
-            </div>
-          )}
+        <button key={index} className={`py-4 ${activeButton === index ? "text-slate-600 font-bold" : ""}`} onClick={() => setActiveButton(index)}>
+          {activeButton === index}
           {text}
         </button>
       ))}
