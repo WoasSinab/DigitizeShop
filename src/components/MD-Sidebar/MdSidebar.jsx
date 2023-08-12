@@ -4,7 +4,7 @@ import FormControlLabel from "@mui/material/FormControlLabel";
 import Checkbox from "@mui/material/Checkbox";
 
 const MdSidebar = () => {
-  // State to manage the brand filter accordion
+  // State to manage the filter accordion
   const [isBrandExpanded, setIsBrandExpanded] = useState(false);
 
   return (
