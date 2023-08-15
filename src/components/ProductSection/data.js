@@ -63,7 +63,70 @@ const productsData = [
     img:
       "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
   },
-  
+  {
+    id: 9,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 10,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 11,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 12,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 13,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 14,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 15,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
+  {
+    id: 16,
+    name: "ساعت هوشمند سری 6",
+    brand: "اپل",
+    price: "۱۲,۶۸۰,۰۰۰ تومان",
+    img:
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/MPLQ3ref_VW_34FR+watch-40-alum-starlight-nc-se_VW_34FR_WF_CO?wid=2000&hei=2000&fmt=png-alpha&.v=1683237043713",
+  },
   
 ];
 

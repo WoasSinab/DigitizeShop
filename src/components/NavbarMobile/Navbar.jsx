@@ -1,13 +1,11 @@
-
-
 const Navbar = () => {
   return (
     <main>
       {/* 📱 Mobile Navbar */}
       <div className='md:hidden flex items-center justify-between mt-5 px-4 mb-6'>
         {/* 🍎 Logo */}
-        <div className='w-6 h-6'>
-          <img src='https://www.freepnglogos.com/uploads/apple-logo-png/apple-logo-png-dallas-shootings-don-add-are-speech-zones-used-4.png' alt='' />
+        <div>
+          Digitize
         </div>
         {/* ⏰ Smart Watch Title */}
         <div className='text-lg font-bold text-slate-800'>ساعت هوشمند</div>

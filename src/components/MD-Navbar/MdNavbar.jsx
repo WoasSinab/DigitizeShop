@@ -1,9 +1,9 @@
 const MdNavbar = () => {
   return (
     <div>
-      <nav className=' bg-white shadow-md p-4 z-10 mb-4 sticky top-0 flex items-center justify-between'>
+      <nav className='bg-white  shadow-md p-4 z-10 mb-4 sticky top-0 flex items-center justify-between'>
         {/* Navbar Ul  */}
-        <ul className='flex items-center gap-x-4 text-slate-800'>
+        <ul className='flex items-center gap-x-2 lg:gap-x-4 md: text-slate-800 lg:text-lg'>
           <li>
             <a href='#' className='px-4 py-2 block hover:bg-gray-50 transition-all duration-300 rounded-md'>
               <svg width='99' height='26' viewBox='0 0 99 26' fill='none' xmlns='http://www.w3.org/2000/svg'>
@@ -41,7 +41,7 @@ const MdNavbar = () => {
         </ul>
 
         {/* Search Bar  */}
-        <div className='flex-1 max-w-2xl'>
+        <div className='flex-1 lg:max-w-sm md:max-w-xs xl:max-w-xl mr-6'>
           <div className='bg-gray-100 p-1 rounded-md flex items-center'>
             <span className='mx-3 text-slate-400'>
               <svg xmlns='http://www.w3.org/2000/svg' fill='none' viewBox='0 0 24 24' strokeWidth={1.5} stroke='currentColor' className='w-6 h-6'>

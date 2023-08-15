@@ -1,3 +1,4 @@
+import BotttomNav from "../../components/BotttomNav/ButttomNav"
 import FilterMobile from "../../components/FilterMobile/FilterMobile"
 import Navbar from "../../components/NavbarMobile/Navbar"
 import ProductGridSec from "../../components/ProductGridSec/ProductGridSec"
@@ -8,6 +9,7 @@ const MainPage = () => {
       <Navbar />
       <FilterMobile />
       <ProductGridSec />
+      <BotttomNav />
     </div>
   )
 }

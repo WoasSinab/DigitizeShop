@@ -8,7 +8,7 @@ const MdSidebar = () => {
   const [isBrandExpanded, setIsBrandExpanded] = useState(false);
 
   return (
-    <div className='bg-white p-5 rounded-xl'>
+    <div className='bg-white p-5 rounded-xl sticky top-20'>
       {/* Categories */}
       <div className='mb-7'>
         <div className='text-lg font-bold mb-5 text-orange-500'>دسته بندی</div>
